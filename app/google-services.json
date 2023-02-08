@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "819916948703",
+    "project_id": "excercisememo",
+    "storage_bucket": "excercisememo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:819916948703:android:3cac648ba428581ee2956a",
+        "android_client_info": {
+          "package_name": "com.okre.appeightexercisememo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "819916948703-tv4d19qtps6e3aebfbv2ctcou6pd9m4e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDW8q41ezgpCqXYPplCoSsTI9aAHhlXeNM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "819916948703-tv4d19qtps6e3aebfbv2ctcou6pd9m4e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
