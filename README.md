@@ -18,7 +18,7 @@ dialog.dismiss() // 다이알로그 끄기
 AppEightExerciseMemo에서 [AlertDialog](https://github.com/okrecords/AppEightExerciseMemo/blob/721c2a4f08bb627e95b4830bfa7bf2b615f9cb62/app/src/main/java/com/okre/appeightexercisememo/MainActivity.kt#L54)
 <br/><br/><br/>
 
-## Firebase 익명 로그인
+## Firebase Authentication - 익명 로그인
 - 익명 계정 생성 및 사용
 - Firebase Authentication Sign-in method에서 익명을 선택한 후 [Firebase Documentation](https://firebase.google.com/docs/auth/android/anonymous-auth?hl=ko)을 참고하여 코드 작성
 
